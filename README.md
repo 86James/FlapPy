@@ -6,7 +6,7 @@ FlapPy is a project I have created recently and have uploaded to GitHub
 
 **Tech used:** Python, Pygame
 
-Using Python and Pygame, I was able to create a replica of flappy bird, Pygame's library makes it easy to create game states, sprites and controls for the characters.
+Using Python and Pygame, I was able to create a replica of flappy bird, Pygame's library makes it easy to create game states, sprites and controls for the characters. This Project used a tutorial by "Clear Code" with heavy modifications, the tutorial can be found here: https://www.youtube.com/watch?v=AY9MnQ4x3zk
 
 ## Lessons Learned:
 
